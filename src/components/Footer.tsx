@@ -17,7 +17,7 @@ export const Footer = () => {
           
           <div className="text-center md:text-right">
             <p className="flex items-center justify-center md:justify-end text-gray-400 mb-2">
-              Made with <Heart className="w-4 h-4 mx-1 text-red-500" /> by Adarsh RG
+              Made by Adarsh RG
             </p>
             <p className="text-gray-500">
               &copy; {currentYear} All rights reserved.

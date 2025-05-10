@@ -5,13 +5,33 @@ import { cn } from '@/lib/utils';
 
 const projectsData = [
   {
+    title: 'Tobys Estate Australia',
+    description: 'I recently developed an e-commerce platform for a leading coffee brand in Australia using the BigCommerce Stencil framework."',
+    image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d',
+    tags: ['BigCommerce','Stencil', 'JavaScript', 'Stencil', 'SEO','GraphQl'],
+    links: {
+      github: 'https://github.com/AdarshRG',
+      live: 'https://www.tobysestate.com.au/'
+    }
+  },
+  {
+    title: 'Toolmart Australia',
+    description: 'E-commerce platform for Tools and other mechanical parts using BigCommerce Stencil framework',
+    image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d',
+    tags: ['BigCommerce', 'JavaScript', 'Stencil', 'SEO','GraphQl'],
+    links: {
+      github: 'https://github.com/AdarshRG',
+      live: 'https://www.toolmart.com.au/'
+    }
+  },
+  {
     title: 'Medcart',
     description: 'E-commerce platform for medical supplies using BigCommerce Stencil framework',
     image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d',
     tags: ['BigCommerce', 'JavaScript', 'Stencil', 'SEO'],
     links: {
       github: 'https://github.com/AdarshRG',
-      live: '#'
+      live: 'https://medcart.com.au/'
     }
   },
   {
@@ -21,7 +41,7 @@ const projectsData = [
     tags: ['BigCommerce', 'CSS', 'JavaScript', 'Responsive Design'],
     links: {
       github: 'https://github.com/AdarshRG',
-      live: '#'
+      live: 'https://www.barkcontrol.com.au/'
     }
   },
   {
@@ -31,14 +51,14 @@ const projectsData = [
     tags: ['BigCommerce', 'Front-end', 'Optimization'],
     links: {
       github: 'https://github.com/AdarshRG',
-      live: '#'
+      live: 'https://www.equivont.com/'
     }
   },
   {
     title: 'Banking Application',
     description: 'Full-stack banking application built with MongoDB and Express',
     image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6',
-    tags: ['MongoDB', 'Express', 'Node.js', 'JavaScript'],
+    tags: ['MongoDB', 'Express', 'Node.js', 'JavaScript','React'],
     links: {
       github: 'https://github.com/AdarshRG',
       live: '#'

@@ -129,6 +129,7 @@ export const Contact = () => {
                 <div>
                   <h4 className="font-medium text-gray-900">Email</h4>
                   <p className="text-gray-600">rg.adarsh1@gmail.com</p>
+                  <p className="text-gray-600">adarshrg1998@gmail.com</p>
                 </div>
               </div>
               

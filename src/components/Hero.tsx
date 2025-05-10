@@ -37,7 +37,7 @@ export const Hero = () => {
           )}
         >
           <p className="text-lg md:text-xl text-gray-600 mb-8">
-            Web Developer with 3 years of experience specializing in BigCommerce and MERN stack,
+            Web Developer with 3 years of experience specializing in BigCommerce and basics of MERN stack,
             creating engaging and functional digital experiences.
           </p>
         </div>

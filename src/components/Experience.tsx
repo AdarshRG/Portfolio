@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils';
 const experiences = [
   {
     title: 'Software Engineer',
-    company: 'AdroitMinds',
+    company: 'AdroitMinds Software Labs,Technopark,Tvm',
     period: 'October 2023 – Present',
     description: [
       'Front-End Developer',

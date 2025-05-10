@@ -12,7 +12,7 @@ const skillCategories = [
   {
     title: 'Frameworks',
     icon: <Layout className="w-6 h-6 text-portfolio-accent" />,
-    skills: ['BigCommerce Stencil', 'Graph QL', 'React', 'Angular', 'Node.js', 'Express']
+    skills: ['BigCommerce Stencil', 'Graph QL', 'React', 'Node.js', 'Express']
   },
   {
     title: 'Tools',
@@ -96,10 +96,10 @@ export const Skills = () => {
               </div>
               <h3 className="text-2xl font-bold mb-4">Achievements & Continuous Learning</h3>
               <ul className="space-y-2 mb-4 text-left list-disc pl-6">
+                <li>Developed fully dynamic e-commerce sites through Bigcommerce and stencil framework </li>
                 <li>Completed Workshop on Python in national level technical fest Pantheon @CET</li>
                 <li>Completed course on MEARN Stack</li>
                 <li>Built a banking page using MongoDB</li>
-                <li>Developed a dynamic e-commerce site through a MERN-focused intensive program</li>
               </ul>
               <p className="italic">
                 Committed to continuous learning and improving my skills in web development
